@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "first_name": "Aman",
+        "last_name": "Gupta",
+        "city": "Ahmedabad",
+        "company": "SublimeDataSystems"
+    },
+    {
+        "id": 2,
+        "first_name": "Ravi",
+        "last_name": "Patel",
+        "city": "Mumbai",
+        "company": "TechMinds"
+    },
+    {
+        "id": 3,
+        "first_name": "Dev",
+        "last_name": "Vyas",
+        "city": "Chennai",
+        "company": "TCS"
+    },
+    {
+        "id": 4,
+        "first_name": "Rahul",
+        "last_name": "Panchal",
+        "city": "Benglore",
+        "company": "Oddo"
+    },
+    {
+        "id": 5,
+        "first_name": "Dhruv",
+        "last_name": "Mistri",
+        "city": "Pune",
+        "company": "Mahindra"
+    }
+]
